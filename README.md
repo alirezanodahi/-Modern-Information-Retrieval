@@ -1,6 +1,6 @@
 # Modern-Information-Retrieval
 this is a IR project based on yelp dataset that can use tf.idf and cosine similarity.
-# Document Retrieval System
+## Document Retrieval System
 
 ## Overview
 
